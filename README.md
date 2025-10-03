@@ -1,14 +1,14 @@
 <!-- ==== HEADER BANNER ==== -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Diego%20Martínez%20Sandoval&text2=Systems%20%26%20Software%20Engineer&width=1000&height=200" alt="banner"/>
+  <img src="assets/banner.svg" alt="Diego Martínez Sandoval banner" width="1000"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
-Full-stack and systems engineer passionate about **scalable solutions, distributed systems, and clean design**.  
-Currently on academic exchange at **Politecnico di Milano 🇮🇹**.  
-Strong skills in **collaboration, adaptability, and leadership**.  
+I am a **final-year Systems & Software Engineering student** at **Pontificia Universidad Javeriana**, currently completing an **academic exchange at Politecnico di Milano 🇮🇹**.  
+
+I’m passionate about **scalable solutions, distributed systems, and clean design**, with strong skills in **teamwork, adaptability, and leadership**.  
 
 🌍 Bogotá, Colombia | 📧 [Email](mailto:diemarsan7@hotmail.com) | 🌐 [Portfolio](https://personal-web-page-zeta-livid.vercel.app/)  
 
@@ -76,4 +76,4 @@ Strong skills in **collaboration, adaptability, and leadership**.
 
 ---
 
-✨ *“Code, Learn, Repeat.”*  
+✨ *“To the infinity and beyond”*  
