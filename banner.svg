@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <!-- Gradiente azul + púrpura -->
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0066CC" /> <!-- Azul -->
+      <stop offset="100%" stop-color="#663399" /> <!-- Púrpura -->
+    </linearGradient>
+
+    <!-- Efecto glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Fondo con borde brillante -->
+  <rect width="1200" height="280" fill="url(#bg-gradient)" rx="20"
+        stroke="#ffffff" stroke-width="3" filter="url(#glow)"/>
+
+  <!-- Nombre -->
+  <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Roboto, Arial, sans-serif" font-size="58" font-weight="bold" fill="#ffffff">
+    Diego Martínez Sandoval
+  </text>
+
+  <!-- Subtítulo -->
+  <text x="50%" y="62%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Roboto, Arial, sans-serif" font-size="28" fill="#e6e6ff">
+    Software/Systems Engineer Student
+  </text>
+
+  <!-- Lema -->
+  <text x="50%" y="78%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Roboto, Arial, sans-serif" font-size="24" fill="#d1b3ff" font-style="italic">
+    Looking for New Horizons
+  </text>
+</svg>

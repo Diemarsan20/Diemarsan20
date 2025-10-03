@@ -1,6 +1,6 @@
-<!-- ==== HEADER BANNER ==== -->
+<!-- Banner -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Diego Martínez Sandoval banner" width="1000"/>
+  <img src="banner.svg" alt="Banner" width="100%">
 </p>
 
 ---
